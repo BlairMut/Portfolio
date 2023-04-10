@@ -1,0 +1,63 @@
+*{
+    background-color: rgb(24, 24, 24);
+}
+.navbar{
+    position: absolute;
+    width: fit-content;
+    top: 0;
+    height: 100%;
+
+}
+.nav-item {
+    border-color: antiquewhite;
+}
+
+.nav-item .nav-link{
+    text-transform:capitalize;
+    font-size: 18px;
+    font-family: 'Poppins', sans-serif;
+    color: rgb(87, 43, 189);
+}
+.nav-item .nav-link:hover{
+    
+    background-color: rgb(87, 43, 189);
+    color: rgb(255, 255, 255);
+    
+}
+/* .home1 + .about1 + .project1 + .contact1{
+    display: none;
+} */
+/* 
+.home1, .about1, .project1, .contact1{
+    display: none;
+}
+
+.home:hover + .home1{
+    display: block;
+}
+.home:hover{
+    display: none;
+}
+
+.about:hover + .about1{
+    display: block;
+}
+.about:hover{
+    display: none;
+}
+
+
+.project:hover + .project1{
+    display: block;
+}
+.project:hover{
+    display: none;
+}
+
+
+.contact:hover + .contact1{
+    display: block;
+}
+.contact:hover{
+    display: none;
+} */
