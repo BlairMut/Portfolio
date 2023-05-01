@@ -27,11 +27,12 @@ button{
     font-size: 29px;
     border-radius: 5px;
     color: rgb(87, 43, 189);
-    background-color: rgb(24, 24, 24);
+    background-color: #000
 }
 
 button:hover{
     color: #ffff;
     transition: 0.3s;
     border-bottom-color: #ffff;
+    
 }

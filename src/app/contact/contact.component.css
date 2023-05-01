@@ -1,0 +1,36 @@
+.container-lg{
+    position: absolute;
+    background-color: #000;
+    left: 15%;
+    top: 25%;
+    padding: 50px 30px;
+    border-radius: 10px;
+}
+li{
+    text-align: center;
+    display: inline-block;
+    padding-inline-start: 10%;
+}
+
+h1,p{
+    color: #ffff;
+    font-family: 'DynaPuff', cursive;
+}
+h1{
+    text-transform: capitalize;
+}
+
+a{
+    text-decoration: none;
+    color: #ffff;
+}
+
+i{
+    color: rgb(87, 43, 189);;
+}
+
+a:hover{
+    color: rgb(87, 43, 189);
+    transition: 0.3s;
+    animation: alternate;
+}

@@ -1,0 +1,20 @@
+.container-sm{
+    position: absolute;
+    left: 15%;
+    background-color: #000;
+    top: 22%;
+    padding: 22px 15px;
+
+}
+
+p{
+    color: #fff;
+    font-family: 'DynaPuff', cursive;
+    letter-spacing: 2px;
+    font-weight: 300;
+    font-size: 22px;
+}
+h2{
+    color: rgb(87, 43, 189);
+    font-family: 'DynaPuff', cursive;
+}
