@@ -1,20 +1,40 @@
-.container-sm{
+.para1 {
     position: absolute;
     left: 15%;
-    background-color: #000;
-    top: 22%;
+    /* background-color: #000; */
+    top: 10%;
     padding: 22px 15px;
 
 }
+.para2 {
+    position: absolute;
+    left: 10%;
+    top: 30%;
+    padding: 22px 15px;
+    
 
-p{
+}
+.para1 p{
     color: #fff;
     font-family: 'DynaPuff', cursive;
     letter-spacing: 2px;
     font-weight: 300;
     font-size: 22px;
 }
+
+.para2 p{
+    color: #fff;
+    font-family: 'DynaPuff', cursive;
+    letter-spacing: 2px;
+    font-weight: 300;
+    font-size: 22px;
+    /* text-align: right; */
+    width: 900px;
+}
 h2{
     color: rgb(87, 43, 189);
     font-family: 'DynaPuff', cursive;
+    padding: 10px;
+    width: 500px;
+
 }
