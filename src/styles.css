@@ -5,5 +5,5 @@
 
   html{
     background-color: rgb(87, 43, 189);
-    background-color: linear-gradient(to right, red , yellow)
+    /* background-color: linear-gradient(90deg 0%, #000 25%, #fff, #234 100%) */
   }
