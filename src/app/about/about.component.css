@@ -12,7 +12,6 @@
     top: 30%;
     padding: 22px 15px;
     
-
 }
 .para1 p{
     color: #fff;
@@ -20,6 +19,7 @@
     letter-spacing: 2px;
     font-weight: 300;
     font-size: 22px;
+    transition: 2s;
 }
 
 .para2 p{
@@ -46,14 +46,8 @@ h2 span {
     font-size: 40px;
     color: #fff;
     text-transform: uppercase;
-    animation: flip 2s infinite;
-    animation-delay: calc(.2s * var(--i))
   }
-  @keyframes flip {
-    0%,80% {
-      transform: rotateY(360deg) 
-    }
-  }
+
 
 img{
     position: absolute;
